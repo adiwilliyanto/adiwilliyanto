@@ -7,26 +7,29 @@
 ---
 
 ## 🚀 About Me
-I specialize in transforming raw data into actionable insights using Python and SQL.  
-My background in Informatics Engineering allows me to combine analytical thinking with technical implementation.
+I transform raw data into actionable insights using Python and SQL.  
+With a background in Informatics Engineering, I combine analytical thinking with technical execution to build data-driven solutions.
+
+I am currently focusing on:
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+- Machine Learning Model Development
+- Data Visualization & Dashboarding
+
+---
 
 ## 📊 Core Skills
 - Data Analysis (Python, SQL)
-- Data Cleaning & Feature Engineering
-- Machine Learning (Scikit-learn)
-- Data Visualization
-- 
-Currently focused on:
-- Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
-- Machine Learning Models
-- Data Visualization & Dashboarding
+- Machine Learning (Scikit-learn)
+- Statistical Analysis
+- Data Visualization
 
 ---
 
 ## 🛠 Tech Stack
 **Languages:** Python, SQL, PHP, JavaScript  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+**Data Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 **Machine Learning:** Scikit-learn  
 **Database:** MySQL  
 **Tools:** Git, VSCode, Google Colab  
@@ -36,21 +39,20 @@ Currently focused on:
 
 ## 📂 Featured Projects
 
-🔹 E-Commerce Data Analysis (EDA Project)  
-🔹 Customer Segmentation using Machine Learning  
-🔹 Portfolio Investment Optimization (PSO Algorithm)  
-🔹 Web-based School Payment System (PHP)
+🔹 **E-Commerce Data Analysis**  
+Performed exploratory data analysis to uncover sales trends and customer behavior patterns.
 
----
+🔹 **Customer Segmentation using Machine Learning**  
+Built a clustering model to segment customers based on purchasing behavior.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiwilliyanto&show_icons=true&theme=default" />
-</p>
-!
+🔹 **Portfolio Investment Optimization (PSO Algorithm)**  
+Implemented Particle Swarm Optimization to optimize asset allocation strategy.
+
+🔹 **Web-based School Payment System**  
+Developed a PHP-based information system for managing school tuition payments.
 
 ---
 
 ## 🤝 Let's Connect
-LinkedIn: www.linkedin.com/in/adi-williyanto
-Email: adiwilliyanto2@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/adi-williyanto  
+📧 Email: adiwilliyanto2@gmail.com
