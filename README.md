@@ -1,4 +1,4 @@
-# Hi, I'm Willy 👋
+# Hi, I'm Adi 👋
 
 📊 Data Analyst | Aspiring Data Scientist  
 🎓 Informatics Engineering Graduate  
