@@ -10,6 +10,12 @@
 I specialize in transforming raw data into actionable insights using Python and SQL.  
 My background in Informatics Engineering allows me to combine analytical thinking with technical implementation.
 
+## 📊 Core Skills
+- Data Analysis (Python, SQL)
+- Data Cleaning & Feature Engineering
+- Machine Learning (Scikit-learn)
+- Data Visualization
+- 
 Currently focused on:
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Transformation
@@ -42,7 +48,6 @@ Currently focused on:
   <img src="https://github-readme-stats.vercel.app/api?username=adiwilliyanto&show_icons=true&theme=default" />
 </p>
 !
-[Adi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adiwilliyanto&show_icons=true&theme=default)
 
 ---
 
