@@ -1,4 +1,4 @@
-# Hi, I'm Adi 👋
+# Hi, I'm Willy 👋
 
 📊 Data Analyst | Aspiring Data Scientist  
 🎓 Informatics Engineering Graduate  
@@ -43,8 +43,8 @@ Currently focused on:
 ---
 
 ## 🤝 Let's Connect
-LinkedIn: (insert your LinkedIn link)  
-Email: (professional email)
+LinkedIn: www.linkedin.com/in/adi-williyanto
+Email: adiwilliyanto2@gmail.com
 
 
 <!--
