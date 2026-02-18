@@ -1,4 +1,51 @@
-## Hi there 👋
+# Hi, I'm Adi 👋
+
+📊 Data Analyst | Aspiring Data Scientist  
+🎓 Informatics Engineering Graduate  
+🌍 Open to International Opportunities  
+
+---
+
+## 🚀 About Me
+I specialize in transforming raw data into actionable insights using Python and SQL.  
+My background in Informatics Engineering allows me to combine analytical thinking with technical implementation.
+
+Currently focused on:
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Machine Learning Models
+- Data Visualization & Dashboarding
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, SQL, PHP, JavaScript  
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+**Machine Learning:** Scikit-learn  
+**Database:** MySQL  
+**Tools:** Git, VSCode, Google Colab  
+**Web Development:** HTML, CSS, React (basic)
+
+---
+
+## 📂 Featured Projects
+
+🔹 E-Commerce Data Analysis (EDA Project)  
+🔹 Customer Segmentation using Machine Learning  
+🔹 Portfolio Investment Optimization (PSO Algorithm)  
+🔹 Web-based School Payment System (PHP)
+
+---
+
+## 📈 GitHub Stats
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiwilliyanto&show_icons=true)
+
+---
+
+## 🤝 Let's Connect
+LinkedIn: (insert your LinkedIn link)  
+Email: (professional email)
+
 
 <!--
 **adiwilliyanto/adiwilliyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
