@@ -38,7 +38,7 @@ Currently focused on:
 ---
 
 ## 📈 GitHub Stats
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiwilliyanto&show_icons=true)
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiwilliyanto&show_icons=true&theme=default&cache_seconds=86400)
 
 ---
 
