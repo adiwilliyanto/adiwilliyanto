@@ -32,7 +32,7 @@ I am currently focusing on:
 **Data Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 **Machine Learning:** Scikit-learn  
 **Database:** MySQL  
-**Tools:** Git, VSCode, Google Colab  
+**Tools:** Git, VSCode, Google Colab ,  jupyter notebook 
 **Web Development:** HTML, CSS, React (basic)
 
 ---
